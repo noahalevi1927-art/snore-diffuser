@@ -10,7 +10,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  noise_meter: ^4.0.2
   http: ^1.2.0
   shared_preferences: ^2.2.2
   permission_handler: ^11.3.0
@@ -23,4 +22,3 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-  
